@@ -7,7 +7,7 @@ An implementation of the RSA encryption algorithm for public key cryptography.
 - Encrypt and send messages using public keys.
 - Decrypt and decode received messages using private keys.
 
-## Reqruiments
+## Requirements
 This project requires the following Python libraries to help generate large prime numbers:
 - `sympy`
 - `random`
