@@ -1,4 +1,4 @@
-message = "This is a message"
+message = "This message will be encoded"
 output = 0
 
 for i, letter in enumerate(message):
